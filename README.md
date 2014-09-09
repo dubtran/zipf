@@ -1,4 +1,6 @@
-zipf
+Zipf sprints
 ====
 
-All Zipfian projects 
+All Zipfian projects / sprints: 
+ 
+- Recommenders
